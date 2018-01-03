@@ -1,5 +1,5 @@
 # 100 Days of Code
-### 100 Projects that can be completed in one day or less.
+### 100 Projects that can be completed in one day or less
 
 #### The Original -
 The “official” version of this challenge is to spend at least an hour per days coding, for 100 days in a row; and to post about your progress on places like Twitter and GitHub. The idea is to motivate yourself to practice, to actually sit down and do the work. The best way to learn how to program is by programming, so this is the perfect way for novices (and non-novices!) to improve their coding.
@@ -11,3 +11,9 @@ While I fully believe this is the best way to partake in this challenge, this ye
 Below I will list each of my projects, as I publish them. This will be updated as new content is created, so check back often, or [follow me on Twitter](https://www.twitter.com/thejessicafelts) for updates.
 
 **1.** To Be Determined
+
+
+
+---
+
+[@thejessicafelts on Twitter](https://www.twitter.com/thejessicafelts).
