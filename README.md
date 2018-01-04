@@ -11,7 +11,9 @@ While I fully believe this is the best way to partake in this challenge, this ye
 Below I will list each of my projects, as I publish them. This will be updated as new content is created, so check back often, or [follow me on Twitter](https://www.twitter.com/thejessicafelts) for updates.
 
 **1.** To Be Determined
+
 **2.** To Be Determined
+
 **3.** To Be Determined
 
 ---
