@@ -18,4 +18,4 @@ Below I will list each of my projects, as I publish them. This will be updated a
 
 ---
 
-[@thejessicafelts on Twitter](https://www.twitter.com/thejessicafelts)
+[Follow @thejessicafelts on Twitter](https://www.twitter.com/thejessicafelts)
