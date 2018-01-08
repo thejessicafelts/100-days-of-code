@@ -1,8 +1,11 @@
 ### 100 Days of Code | Round One
 **Started:** January 08, 2018
+
 **Completed:**
 
-## 001
+---
+
+## Day 001
 ###### January 08, 2018
 
 **Today's Focus Areas:**
