@@ -5,6 +5,10 @@
 
 ---
 
+Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http://www.facebook.com/thejessicafelts), or [Instagram](http://www.instagram.com/thejessicafelts); or connected with me on [LinkedIn](http://www.linkedin.com/in/thejessicafelts).
+
+---
+
 ## Day 002
 ###### January 09, 2018
 
@@ -34,7 +38,3 @@ After finishing this log, I will begin working on the first stages of developmen
 **Thoughts:** I really think I have under estimated the importance of keeping a log like this for the #100DaysOfCode challenge. As I've stated in the main [README.md](https://github.com/thejessicafelts/100-days-of-code/blob/master/README.md) file for this repo, I already tend to spend what this challenge would consider an _adequate_ amount of time coding every day, but to sit down and reflect in a log like this could prove to be very helpful and insightful.
 
 **Link to work:** None available at this time.
-
----
-
-Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http://www.facebook.com/thejessicafelts), or [Instagram](http://www.instagram.com/thejessicafelts); or connected with me on [LinkedIn](http://www.linkedin.com/in/thejessicafelts).
