@@ -9,6 +9,24 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 003
+###### January 10, 2018
+
+**Today's Focus Areas:**
++ Professional Work from a Long-Term Contract Client
++ [Github Pages](http://thejessicafelts.github.io) "Version 2.0" Development
++ WordPress Theme Development
+
+**Today's Progress**: Aside from "work" work, and dabbling with WordPress theme development, like I've been doing daily, today I'm also going to be working on updating my GitHub Pages website. I use my GitHub Pages site as a portfolio of sorts, where I can keep a gallery, or list, of projects, with links and demos for people to view. Currently, the site is nothing more than an incomplete list of some projects I've taken on. I also include a biography, and a contact link. Nothing spectacular. Now, I've had to resort to using this site as a main portfolio for myself, as I had taken down my main website - assuming I'd relaunch it much sooner than has happened. So, while I'm still working on relaunching that site, I decided a good use of my Personal Development time would be to redesign how the GitHub Pages site looks and feels, make it more professional, and just make it more complete.
+
+Today, I'm going to be working on playing around with showing and hiding divs with javascript. Just writing that out feels weird, because this is something I have known how to do for a long time, but for my GitHub Pages site, I would like to be able to assign different data-* attributes to each project I feature, and then be able to show or hide projects based on if the user selects to see them. Basically, I want to be able to filter projects by project type, year, or completion. The only way I can think to do this (that will be accepted by GitHub Pages) is with JavaScript, so today I'm going to play around, and see if I can get that to work.
+
+**Thoughts:** Over the last two days, I've had to really think about how I want to develop this GitHub Pages site, to allow for the filtering that I want the site to have. I have considered using classes for each of the project divs, but I think that I can accomplish the same effect by using data-* attributes - something I have very little experience in using. GitHub Pages is a great service, and anyone who has a GitHub account, should definitely put together a GitHub Pages site with a list of projects - but working around its limitations has proven challenging for me (again, in respect to my wanting to filter things). It's challenging in a good way though, and I'm hoping to work through it, with a good outcome.
+
+**Link to work:**
++ [My Current GitHub Pages Website](http://thejessicafelts.github.io)
++ [The "thejessicafelts.github.io_redesgin" Repository](https://github.com/thejessicafelts/thejessicafelts.github.io_redesign)
+
 ## Day 002
 ###### January 09, 2018
 
