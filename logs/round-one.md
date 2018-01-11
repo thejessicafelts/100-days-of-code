@@ -9,6 +9,21 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 004
+###### January 11, 2018
+
+**Today's Focus Areas:**
++ [Github Pages](http://thejessicafelts.github.io) "Version 2.0" Development
+
+**Today's Progress**: Today, I'm continuing work on the Filtering feature of my new Projects page, on my GitHub Pages site. Yesterday, I was able to get the filtering working, so that no matter what selections were made (there are three filtering categories, with two to four options each), the appropriate boxes would highlight. The problem is this is that there was a lot of repetitive code, and I _know_ there has to be a better, cleaner, shorter way to accomplish this. Today, I will continue working to refactor this code, and see how far I can get within the day. So far, I'm going through and rewriting parts of the JavaScript that I believe may be a little sloppy - afterwards, I'll work on how I identify each of the projects, and see if I can slim that part down some as well.
+
+**Thoughts:** This is one of the more difficult projects I've taken on in recent memory. Filtering is something I've always wanted to have a grasp on, but not something I ever sat myself down and learned. I have no idea if this is the "correct" way to go about doing it, but I'm getting it to work for me, regardless.
+
+**Link to work:**
++ [My Current GitHub Pages Website](http://thejessicafelts.github.io)
++ [The "thejessicafelts.github.io_redesgin" Repository](https://github.com/thejessicafelts/thejessicafelts.github.io_redesign)
+
+
 ## Day 003
 ###### January 10, 2018
 
