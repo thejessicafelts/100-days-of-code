@@ -9,6 +9,23 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 005
+###### January 12, 2018
+
+**Today's Focus Areas:**
++ [Github Pages](http://thejessicafelts.github.io) "Version 2.0" Development
++ Creating a list of [Potential Projects](https://github.com/thejessicafelts/potentialprojectlist/blob/master/redesign-redevelop/list.md)
+
+**Today's Progress**: Today has been a very lazy day. I haven't been feeling well, and staring at a computer screen is one of the last things I wanted to do. However, I did manage to get a few things accomplished: I have began looking into, and experimenting with, alternatives for my Filtering issue on my GitHub Pages site. I've also watched some videos on Machine Learning and Neural Networks - something I'd like to learn more about this year. Additionally, I've created a list of [Potential Projects](https://github.com/thejessicafelts/potentialprojectlist/blob/master/redesign-redevelop/list.md), specifically of websites I'd like to Redesign and Redevelop for practice, this year.
+
+**Thoughts:** Pushing yourself to complete things like this - or any sort of daily challenge - can be hard when you don't feel well. But having the commitment to stick to it is something that I think I'll thank myself for in the long run.
+
+**Link to work:**
++ [My Current GitHub Pages Website](http://thejessicafelts.github.io)
++ [The "thejessicafelts.github.io_redesgin" Repository](https://github.com/thejessicafelts/thejessicafelts.github.io_redesign)
++ [List to the "Potential Projects" List](https://github.com/thejessicafelts/potentialprojectlist/blob/master/redesign-redevelop/list.md)
+
+
 ## Day 004
 ###### January 11, 2018
 
