@@ -15,10 +15,6 @@ Below I will list each of my projects, as I publish them. This will be updated a
 
 **1.** To Be Determined
 
-**2.** To Be Determined
-
-**3.** To Be Determined
-
 ---
 
 [Follow @thejessicafelts on Twitter](https://www.twitter.com/thejessicafelts)
