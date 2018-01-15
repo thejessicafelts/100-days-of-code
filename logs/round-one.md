@@ -9,6 +9,34 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 007
+###### January 14, 2018
+
+**Today's Focus Areas:**
++ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
+
+**Today's Progress**: Today has been a trying day. [David](https://github.com/hiplunatic) has been ill all day, so I knew there wasn't going to be a lot of progress made on the development front. This evening, I was able to sit down and work on a small project - a slide-out navigation system for a static website.
+
+**Thoughts:** I find small projects, like the one I took on this evening to be very therapeutic in nature. I'm one of those weird people who happen to like coding as a hobby (something I've found to be much less common in my adult life, than it was when I was in middle- and high-school). Being able to sit down and work on something like this gives my brain enough of a workout that I have been feeling accomplished with the progress I've made, but it has been laid back enough to allow me to get my mind off of David being sick.
+
+**Link to work:**
++ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
+
+## Day 006
+###### January 13, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ [Github Pages](http://thejessicafelts.github.io) "Version 2.0" Development
+
+**Today's Progress**: Aside from a README.md commit to the 100 Days of Code README.md file, there was nothing committed today. It was a day filled with private client work, and general errand running (it _is_ a Saturday, after all). Behind the scenes, I continued to research techniques for the filtering system I want to implement for my GitHub Pages site, and also took notes of some other projects I might like to tackle in the near future.
+
+**Thoughts:** While I am still committed to making sure I publish at least one commit per day, I have to realize that I'm not always going to make substantial progress on my projects on a daily basis, enough to warrant multiple, substantail commits. I have to become okay with this.
+
+**Link to work:**
++ [My Current GitHub Pages Website](http://thejessicafelts.github.io)
++ [The "thejessicafelts.github.io_redesgin" Repository](https://github.com/thejessicafelts/thejessicafelts.github.io_redesign)
+
 ## Day 005
 ###### January 12, 2018
 
@@ -25,7 +53,6 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 + [The "thejessicafelts.github.io_redesgin" Repository](https://github.com/thejessicafelts/thejessicafelts.github.io_redesign)
 + [List to the "Potential Projects" List](https://github.com/thejessicafelts/potentialprojectlist/blob/master/redesign-redevelop/list.md)
 
-
 ## Day 004
 ###### January 11, 2018
 
@@ -39,7 +66,6 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 **Link to work:**
 + [My Current GitHub Pages Website](http://thejessicafelts.github.io)
 + [The "thejessicafelts.github.io_redesgin" Repository](https://github.com/thejessicafelts/thejessicafelts.github.io_redesign)
-
 
 ## Day 003
 ###### January 10, 2018
