@@ -9,6 +9,21 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 008
+###### January 15, 2018
+
+**Today's Focus Areas:**
++ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
+
+**Today's Progress**: This afternoon, I was able to sit down and work on the sub-menu functionality for the Slide Out Navigation. After attempting to work this out with JavaScript, it hit me that this could be done much easier by using hover states and CSS. After tinkering with that for a few minutes, I had it working.
+
+Tomorrow, when I have a little more time, I'll probably start working on transitions, and having the sub-menus slide in/out smoothly, as opposed to just appearing/disappearing as they are now.
+
+**Thoughts:** You don't always have to overcomplicate things. I was trying to work this functionality out with JavaScript, when in reality, the better way to approach it was with CSS. Work smarter, not harder!
+
+**Link to work:**
++ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
+
 ## Day 007
 ###### January 14, 2018
 
