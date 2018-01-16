@@ -9,11 +9,29 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 009
+###### January 16, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ WordPress Theme Development
+
+**Today's Progress**: Today, I worked most of the day on projects for a private client. I was able to update our project, debug issues, and meet our tight deadline this afternoon. As for personal projects, I'm going to be working the rest of this afternoon on WordPress theme development. [My Blog](http://www.thejessicafelts) has been distressing me. While, the Twenty Sixteen theme is a great place to start, I just can't use it forever. I've transitioned to Cambium by BestBlogThemes.com for the meantime, and it's made me a little less crazy.
+
+For the WordPress theme, my greatest hope is that I can get something developed, and live by the end of the month. I am not going to release until it's up to par with what I want, but since it's not an overly complicated project, I'm thinking I should be able to get it done quickly.
+
+Last night, I released a CodePen pen for my Slide Out Navigation (Desktop Only), [you can view that here](https://codepen.io/thejessicafelts/project/details/ABNVpk).
+
+**Thoughts:** CodePen. Aside from apparently one small project I published while at a previous job, I haven't really used CodePen. I'm seeing now that it's a great place to showcase live projects. I will definitely be leveraging this in the future.
+
+**Link to work:**
++ [Slide Out Navigation](https://codepen.io/thejessicafelts/project/details/ABNVpk)
+
 ## Day 008
 ###### January 15, 2018
 
 **Today's Focus Areas:**
-+ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
++ [Slide Out Navigation](https://codepen.io/thejessicafelts/project/details/ABNVpk)
 
 **Today's Progress**: This afternoon, I was able to sit down and work on the sub-menu functionality for the Slide Out Navigation. After attempting to work this out with JavaScript, it hit me that this could be done much easier by using hover states and CSS. After tinkering with that for a few minutes, I had it working.
 
@@ -22,20 +40,20 @@ Tomorrow, when I have a little more time, I'll probably start working on transit
 **Thoughts:** You don't always have to overcomplicate things. I was trying to work this functionality out with JavaScript, when in reality, the better way to approach it was with CSS. Work smarter, not harder!
 
 **Link to work:**
-+ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
++ [Slide Out Navigation](https://codepen.io/thejessicafelts/project/details/ABNVpk)
 
 ## Day 007
 ###### January 14, 2018
 
 **Today's Focus Areas:**
-+ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
++ [Slide Out Navigation](https://codepen.io/thejessicafelts/project/details/ABNVpk)
 
 **Today's Progress**: Today has been a trying day. [David](https://github.com/hiplunatic) has been ill all day, so I knew there wasn't going to be a lot of progress made on the development front. This evening, I was able to sit down and work on a small project - a slide-out navigation system for a static website.
 
 **Thoughts:** I find small projects, like the one I took on this evening to be very therapeutic in nature. I'm one of those weird people who happen to like coding as a hobby (something I've found to be much less common in my adult life, than it was when I was in middle- and high-school). Being able to sit down and work on something like this gives my brain enough of a workout that I have been feeling accomplished with the progress I've made, but it has been laid back enough to allow me to get my mind off of David being sick.
 
 **Link to work:**
-+ [Slide Out Navigation](https://github.com/thejessicafelts/slide-out-nav)
++ [Slide Out Navigation](https://codepen.io/thejessicafelts/project/details/ABNVpk)
 
 ## Day 006
 ###### January 13, 2018
