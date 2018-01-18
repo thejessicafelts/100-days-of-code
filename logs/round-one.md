@@ -9,6 +9,20 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 010
+###### January 17, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ [Slide Out Navigation (Desktop Only)](https://codepen.io/thejessicafelts/project/details/ABNVpk)
+
+**Today's Progress**: Today, I revised the code for the slide out navigation, and updated the project on GitHub. Aside from these changes, today was filled with around 6 hours of private client work.
+
+**Thoughts:** No thoughts for today. :-)
+
+**Link to work:**
++ [Slide Out Navigation](https://codepen.io/thejessicafelts/project/details/ABNVpk)
+
 ## Day 009
 ###### January 16, 2018
 
