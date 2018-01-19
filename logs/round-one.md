@@ -1,4 +1,4 @@
-### 100 Days of Code | Round One
+tool belt### 100 Days of Code | Round One
 **Started:** January 08, 2018
 
 **Completed:**
@@ -8,6 +8,40 @@
 Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http://www.facebook.com/thejessicafelts), or [Instagram](http://www.instagram.com/thejessicafelts); or connected with me on [LinkedIn](http://www.linkedin.com/in/thejessicafelts).
 
 ---
+
+## Day 012
+###### January 19, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ WordPress Theme Development
+
+**Today's Progress**: Today includes more of the same as yesterday, which makes daily updates hard. I am continuing to work on tagging and tracking for a private client (I should get feedback today on whether my implementations have been successful), and also working on WordPress Theme development in my down time.
+
+As for what I am planning for the [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme): I am looking to get basic blog functionality roughed out today. I'm not so concerned about styling at this point, since we're still in the very beginning stages of development, but getting it to be functional will do wonders in helping me move forward.
+
+I am also thinking of doing a small side project this weekend. [David](https://github.com/hiplunatic) mentioned yesterday that he had created a textarea input box that only allowed so many characters; when the user had only 100 characters left, the numbers would appear and highlight yellow to let them know they were running out, and then once their character count had gone negative (because apparently this textarea allowed for that), the numbers would be highlighted in red, and the user would no longer be able to submit. I think creating my own version of something like this would be a fun, relatively short side project to work on.
+
+**Thoughts:** It's important to continue learning new things, even when they don't come easy to you. I have always dreaded having to work with tagging for a website, because every client seems to set things up differently, and because of this, it's hard to grasp how/when the tags are being fired. I'm grateful for the opportunity to learn though, because in the long run, it will make me a better developer, and give me an additional skill for my tool belt.
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+## Day 011
+###### January 18, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ WordPress Theme Development
+
+**Today's Progress**: Today I worked primary on private client work. This mostly entailed working with content tagging and tracking. Tagging and tracking have never been my strengths, though they are vital to web development, so clients can get a better understanding of their audience, and traffic. I have been struggling the past few days trying to figure out the issues I'm having, but I am very thankful for the opportunity to learn.
+
+Once I was done for the day, I switched my focus to working on development of [the WordPress theme](https://github.com/thejessicafelts/thejessicafelts_theme) I plan to eventually use for [my website](http://www.thejessicafelts.com). I made small bits of progress, and have determined that I _do not_ in fact need an external plugin to control custom post types _(a practice I have been using for the better part of the last year, on the recommendation of a former employer)_.
+
+**Thoughts:** Not really a development-related thought, but: don't accidentally kick rough 1" x 3" boards of wood. I ran my foot into one last night, and now have three or four tiny wooden splinters in my foot, that refuse to come out. Avoiding accidents like this prevent the distraction from your work that is foot pain.
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
 
 ## Day 010
 ###### January 17, 2018
