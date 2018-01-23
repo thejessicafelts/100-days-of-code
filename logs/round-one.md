@@ -9,6 +9,45 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 015
+###### January 22, 2018
+
+**Today's Focus Areas:**
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** Today I worked on creating a single post template for this WordPress theme. I included pagination, so readers are able to easily go between posts. I also worked on the main posts page, also including pagination, and adjusting the breakpoints for a better viewing experience across screen sizes.
+
+**Thoughts:** If you're working on a WordPress project, [the Codex Development](https://codex.wordpress.org/) is your best friend.
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+## Day 014
+###### January 21, 2018
+
+**Today's Focus Areas:**
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** Today I worked on adding archive and single templates for the "onehundreddaysofcode" custom post type. I also updated styles, site-wide.
+
+**Thoughts:** If you're working on a WordPress project, [the Codex Development](https://codex.wordpress.org/) is your best friend.
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+## Day 013
+###### January 20, 2018
+
+**Today's Focus Areas:**
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** Today I created the "onehundreddaysofcode" custom post type, to allow for a custom set of posts. I also separated the custom-post-types.php file from the options-pages.php to make sections easier to keep track of.
+
+**Thoughts:** If you're working on a WordPress project, [the Codex Development](https://codex.wordpress.org/) is your best friend.
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
 ## Day 012
 ###### January 19, 2018
 
