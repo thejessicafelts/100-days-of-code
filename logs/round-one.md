@@ -9,6 +9,21 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 016
+###### January 22, 2018
+
+**Today's Focus Areas:**
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** I have decided to put all of my focus on creating this WordPress theme; so, today, I worked on styling some of the post pages - standard posts, custom post types, archive pages, single post pages, etc. I have decided that getting this site developed, and live is the most important thing for me to be focusing on right now. Without a presentable web presence, none of my other projects will matter. I need a respectable website to drive traffic to, to display my projects on, to tell people out myself with. For the next little while here on my #100DaysofCode logs, it will be nothing but WordPress theme development.
+
+That being said, I do still have a job, and therefore I do still have _private client work_ that I do on a daily basis. However, since I can't really discuss any of that, I'll try not to bring it up as much.
+
+**Thoughts:** I have this problem of sticking to projects. When they are personal projects, don't have a deadline, and my failure to complete them won't have a huge detrimental impact on my life, I have trouble completing them. This is going to be my first project where I sit down and say to myself "yes, there are lots of cool things you could be building - but you need to finish this one first". We'll see how that goes, but having the dedication to stick to one project and see it through is something I greatly want to develop within myself.
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
 ## Day 015
 ###### January 22, 2018
 
