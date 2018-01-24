@@ -10,7 +10,7 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 ---
 
 ## Day 016
-###### January 22, 2018
+###### January 23, 2018
 
 **Today's Focus Areas:**
 + [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
