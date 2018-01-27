@@ -1,4 +1,4 @@
-tool belt### 100 Days of Code | Round One
+### 100 Days of Code | Round One
 **Started:** January 08, 2018
 
 **Completed:**
@@ -8,6 +8,49 @@ tool belt### 100 Days of Code | Round One
 Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http://www.facebook.com/thejessicafelts), or [Instagram](http://www.instagram.com/thejessicafelts); or connected with me on [LinkedIn](http://www.linkedin.com/in/thejessicafelts).
 
 ---
+
+## Day 018
+###### January 26, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ Setting up JIRA for personal projects
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** Today consisted of a lot of private client work, and very little work on my own personal site. One thing I did accomplish for the personal site, however, is setting up a cloud-hosted JIRA account so I am able to open tickets and track progress like I would in any normal project.
+
+**Thoughts:** None for today :-)
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+## Day 018
+###### January 25, 2018
+
+**Today's Focus Areas:**
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** Today, I continued work on my personal site, working specifically on the #100DaysOfCode log section of the site. I adjusted the styling for the post archive page, and started working on designs for the single post page.
+
+**Thoughts:** Slow and steady wins the race. You just have to keep trudging along until things get completed.
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+## Day 017
+###### January 24, 2018
+
+**Today's Focus Areas:**
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** Today I continued work on my personal site, building out the #100DaysOfCode post archive page, to display a grid of posts (much like how the site displays posts currently), and customizing them for the challenge.
+
+I also started looking into the possible WordPress 5.0 update, where it is rumored that the Gutenberg editor will become the standard. This could have some pretty negative implications for me, being that the majority of my site is built on the ability to heavily customize the admin dashboard with custom post types and custom fields. From what I've ready, there will still be support for plugins like ACF Pro, so it shouldn't bother what I do very much, but it's still something I would like to look into further.
+
+**Thoughts:** Keeping up with news within your industry is a good idea. Up until today, I hadn't heard anything about the Gutenberg editor becoming the standard for WordPress with the next update. I am familiar with the Gutenberg editor (and don't particularly care for it, at all), but I always assumed it was something I would just be able to avoid. I am going to start working on becoming more active in relevant communities, so I'm able to keep up with things like this, when they are first talked about, instead of hearing about them months later...
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
 
 ## Day 016
 ###### January 23, 2018
