@@ -9,7 +9,7 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
-## Day 018
+## Day 019
 ###### January 26, 2018
 
 **Today's Focus Areas:**
