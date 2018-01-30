@@ -9,6 +9,36 @@ Follow me on: [Twitter](http://www.twitter.com/thejessicafelts), [Facebook](http
 
 ---
 
+## Day 020
+###### January 28, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ Setting up JIRA for personal projects
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:** Today consisted of a lot of private client work, and very little work on my own personal site. One thing I did accomplish for the personal site, however, is setting up a cloud-hosted JIRA account so I am able to open tickets and track progress like I would in any normal project.
+
+**Thoughts:** None for today :-)
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+## Day 020
+###### January 27, 2018
+
+**Today's Focus Areas:**
++ Private Client Work
++ Setting up JIRA for personal projects
++ [WordPress Theme Development](https://github.com/thejessicafelts/thejessicafelts_theme)
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
++ [WordPress Theme](https://github.com/thejessicafelts/thejessicafelts_theme)
+
 ## Day 019
 ###### January 26, 2018
 
