@@ -13,6 +13,6 @@ Below I will list each of my projects, as I publish them. This will be updated a
 
 #### Archives -
 
-For information about my 2018 attempt at 100 Days of Code, visit the [2018-Archive Folder](https://github.com/thejessicafelts/100-days-of-code/2018-Archive/).
+For information about my 2018 attempt at 100 Days of Code, visit the [2018-Archive Folder](https://github.com/thejessicafelts/100-days-of-code/tree/master/2018-Archive).
 
 [Follow @thejessicafelts on Twitter](https://www.twitter.com/thejessicafelts)
